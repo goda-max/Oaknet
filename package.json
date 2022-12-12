@@ -1,0 +1,69 @@
+{
+  "name": "fyx-front-end",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@coreui/icons": "^2.1.0",
+    "@coreui/icons-react": "^2.0.1",
+    "@coreui/react": "^4.1.2",
+    "@fortawesome/fontawesome-free": "^6.1.0",
+    "@mui/material": "^5.5.1",
+    "@mui/styled-engine-sc": "^5.4.2",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "chart.js": "^3.7.1",
+    "faker": "5.5.3",
+    "formik": "^2.2.9",
+    "material-ui": "^0.20.2",
+    "pretty-rating-react": "^2.1.1",
+    "react": "^17.0.2",
+    "react-apexcharts": "^1.4.0",
+    "react-bootstrap": "^2.2.1",
+    "react-burger-menu": "^3.0.6",
+    "react-chartjs-2": "^4.0.1",
+    "react-circular-progressbar": "^2.0.4",
+    "react-dom": "^17.0.2",
+    "react-facebook-login": "^4.1.1",
+    "react-google-login": "^5.2.2",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^4.3.1",
+    "react-loader-spinner": "^6.0.0-0",
+    "react-multi-carousel": "^2.8.0",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "^5.0.0",
+    "react-sidebar": "^3.0.2",
+    "recharts": "^2.1.9",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
